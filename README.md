@@ -1,5 +1,7 @@
 # maucash-model
 
+基于vue+typescript的vue组件项目
+
 ## 一、使用方式
 
 - 1、安装
